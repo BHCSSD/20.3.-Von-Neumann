@@ -15,6 +15,44 @@ These are basic components of the Central Processing Unit (CPU), please draw out
   - control unit, (CU)
   - Arithmetic Logic Unit (ALU),
   - Cache
+
+```
+  let descriptX = 100 // sets xfor where definition shows up
+  let descriptY = 10 // sets y for where definition shows up
+
+
+function setup() {
+  createCanvas(800, 800);
+
+  // rectMode(CENTER)
+  textAlign(CENTER)
+}
+
+function draw() {
+
+  background(255);
+
+  // block 1 copy this code, edit the numbers to make other blocks
+  rect(50, 50, 100, 100); //input box
+  
+  if (mouseX < 150 && mouseX > 50 && mouseY < 150 *& mouseY > 50 ) {
+    text("input device", mouseX, mouseY) //name of the block
+    text("information provided by user", descriptX, descriptY) // definition of 
+  }//end if
+
+// start your next block here. 
+
+
+  
+  }// end draw 
+
+
+// if you click this it will tell you where your mouse is
+function mousePressed(){
+  print(`X:${mouseX}`) 
+  print("y:"+ mouseY)
+}
+```
   - Clock
   - Random access memory (RAM) 
 
