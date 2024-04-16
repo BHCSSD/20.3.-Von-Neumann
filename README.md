@@ -57,7 +57,7 @@ function draw() {
 // if you click this it will tell you where your mouse is
 function mousePressed(){
   print(`X:${mouseX}`) 
-  print("y:"+ mouseY)
+  print(`X:${mouseX}`)
 }
 ```
 
