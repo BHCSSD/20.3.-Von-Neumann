@@ -15,16 +15,20 @@ These are basic components of the Central Processing Unit (CPU), please draw out
   - control unit, (CU)
   - Arithmetic Logic Unit (ALU),
   - Cache
+  - Clock
+  - Random access memory (RAM) 
+
 
 ```
-  let descriptX = 100 // sets xfor where definition shows up
-  let descriptY = 10 // sets y for where definition shows up
+// Be lazy, turn the blocks / if statements into functions !!! 
+  let descriptX = 100 // sets x for where the definition shows up
+  let descriptY = 10 // sets y for where the definition shows up
 
 
 function setup() {
   createCanvas(800, 800);
 
-  // rectMode(CENTER)
+  // rectMode(CENTER)// probably best not to use this for 
   textAlign(CENTER)
 }
 
@@ -33,9 +37,10 @@ function draw() {
   background(255);
 
   // block 1 copy this code, edit the numbers to make other blocks
+  //If you are lazy or crazy smart you would make this into a function, so you do not need to copy and paste/ edit multiple numbers
   rect(50, 50, 100, 100); //input box
   
-  if (mouseX < 150 && mouseX > 50 && mouseY < 150 *& mouseY > 50 ) {
+  if (mouseX < 150 && mouseX > 50 && mouseY < 150 && mouseY > 50 ) {
     text("input device", mouseX, mouseY) //name of the block
     text("information provided by user", descriptX, descriptY) // definition of 
   }//end if
@@ -53,8 +58,6 @@ function mousePressed(){
   print("y:"+ mouseY)
 }
 ```
-  - Clock
-  - Random access memory (RAM) 
 
 
 
