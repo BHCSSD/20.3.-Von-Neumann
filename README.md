@@ -19,8 +19,10 @@ These are basic components of the Central Processing Unit (CPU), please draw out
   - Random access memory (RAM) 
 
 
+## Starter code
+### Be lazy, turn the blocks / if statements into functions !!! 
 ```
-// Be lazy, turn the blocks / if statements into functions !!! 
+
   let descriptX = 100 // sets x for where the definition shows up
   let descriptY = 10 // sets y for where the definition shows up
 
