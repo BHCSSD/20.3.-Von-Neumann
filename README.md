@@ -20,7 +20,7 @@ These are basic components of the Central Processing Unit (CPU), please draw out
 
 ## Part 2 Fetch Decode and Execute
 
-Along with information from the video in Part 1, please use this video, (AQA A’Level Opcodes and operands)[https://youtu.be/2h3hQCV3YcE?si=CkKTyRHo3MgyGpAj]  or this video (CAMBRIDGE IGCSE (0478-0984) 3.1 Fetch-decode-execute cycle)[  https://youtu.be/8Qx6Dr_aKXs?si=TngWJuJdOPhJI5mk]  to add on more information for the Fetch, Decode, and Execute Cycles
+Along with information from the video in Part 1, please use this video, [AQA A’Level Opcodes and operands](https://youtu.be/2h3hQCV3YcE?si=CkKTyRHo3MgyGpAj)  or this video [CAMBRIDGE IGCSE (0478-0984) 3.1 Fetch-decode-execute cycle](  https://youtu.be/8Qx6Dr_aKXs?si=TngWJuJdOPhJI5mk)  to add on more information for the Fetch, Decode, and Execute Cycles
 You will also use these video for Part 3 later on. 
 
 Explain and show how information moves through the CPU to do basic math calculations.
