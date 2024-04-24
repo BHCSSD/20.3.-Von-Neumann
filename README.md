@@ -27,6 +27,8 @@ Explain and show how information moves through the CPU to do basic math calculat
 Develop a creative and interactive way to show how the CPU works using the fetch, decode, and execute cycles 
 Show the flow of data through the compute
 
+- https://www.savemyexams.com/a-level/computer-science/ocr/17/revision-notes/1-the-characteristics-of-contemporary-processors-input-output-and-storage-devices/1-1-structure-and-function-of-the-processor/fetch-decode-execute-cycle/ 
+
 
 
 ## Starter code
