@@ -30,6 +30,12 @@ Show the flow of data through the compute
 - https://www.savemyexams.com/a-level/computer-science/ocr/17/revision-notes/1-the-characteristics-of-contemporary-processors-input-output-and-storage-devices/1-1-structure-and-function-of-the-processor/fetch-decode-execute-cycle/ 
 
 
+## Part 3 Opcode && Operands
+Show, define, and explain how the CPU uses the following. For this, we are only looking at 8-bit opcodes/operands. 
+- opcodes
+- operands 
+
+
 
 ## Starter code
 ### Be lazy, turn the blocks / if statements into functions !!! 
